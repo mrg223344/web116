@@ -1,8 +1,0 @@
-# RVH Risk Predictor ÒÀÀµ°ü
-streamlit
-pandas
-numpy
-xgboost
-scikit-learn
-joblib
-python-dotenv

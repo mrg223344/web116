@@ -1,0 +1,8 @@
+# RVH Risk Predictor 依赖包
+streamlit
+pandas
+numpy
+xgboost
+scikit-learn
+joblib
+python-dotenv
